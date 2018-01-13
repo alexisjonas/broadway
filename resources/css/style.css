@@ -21,7 +21,7 @@ h1 {
   font-weight: bold;
 }
 
-ul {
+li {
   list-style-type: none;
   font-size: 18px;
 }
@@ -52,4 +52,7 @@ nav {
   font-size: 11px;
   bottom: 0;
   width: 100%;
+}
+a {
+  color: white;
 }
