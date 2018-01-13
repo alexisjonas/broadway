@@ -53,6 +53,6 @@ nav {
   bottom: 0;
   width: 100%;
 }
-a {
+a:link {
   color: white;
 }
